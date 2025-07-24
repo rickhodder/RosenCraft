@@ -13,13 +13,15 @@ Since this is a Jekyll theme, every command described in the [Jekyll documentati
 
 ### Development
 
-To start the development workflow, run:
+To start the development workflow, run the following which overrides the baseurl in dev so that website can run locally:
 
 ```
-bundle exec jekyll serve --livereload
+bundle exec jekyll serve --livereload --config _config.yml,_config_dev.yml
 ```
 
 ### Production
+
+When you commit to prod, it will use _config.yml, which already has baseurl configured for prod, so no changes necessary - just commit to the branch and all will be well
 
 To build the project, run:
 

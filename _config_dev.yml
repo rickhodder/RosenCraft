@@ -1,0 +1,15 @@
+#
+# Sera - OnePage Jekyll Theme
+# Dev Override Configuration File
+# Only used for dev, overriding the baseurl in _config.yml
+# serve statement changes to
+#
+#  bundle exec jekyll serve --config _config.yml,_config_dev.yml
+#
+# this file will be ignored when the Jekyll build occurs in github pages
+#
+
+
+# Information for deploy
+baseurl: ""
+

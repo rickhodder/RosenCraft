@@ -13,6 +13,7 @@ sass:
 # Information for deploy
 baseurl: "/RosenCraft"
 
+
 # the base hostname & protocol for your site
 ###url: "http://localhost:4000"
 url: "https://rickhodder.github.io/RosenCraft"
