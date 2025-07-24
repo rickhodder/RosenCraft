@@ -14,7 +14,8 @@ sass:
 baseurl: ""
 
 # the base hostname & protocol for your site
-url: "http://localhost:4000"
+###url: "http://localhost:4000"
+url: "https://rickhodder.github.io/RosenCraft"
 
 ####################################
 ######   Optional Features    ######
@@ -43,7 +44,7 @@ jekyll-archives:
 #######################################################
 
 # This is your site title
-title: Sera - OnePage Multi-Purpose Theme
+title: RosenCraft, LLC
 # Website language
 lang: en-US
 # Header Title
@@ -58,19 +59,19 @@ headter-tagline: We Always
 # Focus Buttons
 header-focus-button:
   title: Download Now
-  url: https://themeforest.net/collections/6069390-sera
+  url: about:blank
 
 # Secondary Buttons
 header-secondary-button:
   title: Discover More
-  url: http://themeforest.net/user/ohkimur
+  url: about:blank
 
 #
 # This is your email adress, contact from send here all emails from contact section
 # IMPORTANT: you can modify contact form from this static template, but now works contact form works with a free external server
 # To configure this contact form, first please send a fictive email afeter you enter below your email and verify that :)
 #
-email: your_email@example.com
+email: rickhodder@msn.com
 
 # Offer Banner Link
 # Default link is a link to all Sera OnePage products
@@ -107,7 +108,7 @@ about-widget:
 
 # Google Map JS api
 key-api: YOUR_GOOGLE_MAP_API_KEY
-map-text: Sera Google Map
+map-text: RosenCraft Google Map
 map-lat: 44.4267674
 map-lng: 26.102538399999958
 
@@ -129,7 +130,7 @@ mailchimp:
 #####################################
 #############   About   #############
 #####################################
-about-title: Welcome to Sera
+about-title: Welcome to RosenCraft, LLC
 about-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl.
 
 #####################################
@@ -289,32 +290,32 @@ testimonials-description: Aenean at tincidunt sem. Interdum et malesuada fames a
 testimonials:
   # Client
   - name: Johnatan Doe
-    url: http://themeforest.net
-    url-text: ThemeForest.net
+    url: https://rickhodder.com
+    url-text: RickHodder
     avatar: avatar-01.jpg
     cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
     logo-img: themeforest.png
 
   # Client
   - name: Adam Smith
-    url: http://codecanyon.net
-    url-text: CodeCanyon.net
+    url: https://rickhodder.com
+    url-text: RickHodder
     avatar: avatar-02.jpg
     cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
     logo-img: codecanyon.png
 
   # Client
   - name: Irene Warner
-    url: http://videohive.net
-    url-text: VideoHive.net
+    url: https://rickhodder.com
+    url-text: RickHodder
     avatar: avatar-03.jpg
     cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
     logo-img: videohive.png
 
   # Client
   - name: Richard Ryan
-    url: http://audiojungle.net
-    url-text: AudioJungle.net
+    url: https://rickhodder.com
+    url-text: RickHodder
     avatar: avatar-04.jpg
     cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
     logo-img: audiojungle.png
@@ -433,6 +434,6 @@ contact-description: Nulla a tellus at turpis gravida congue non interdum et mal
 #############   Footer   ############
 #####################################
 footer-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
-footer-copyright-text: Ohkimur
-footer-copyright-url: https://github.com/ohkimur
+footer-copyright-text: RickHodder
+footer-copyright-url: https://github.com/rickhodder
 footer-copyright-year: 2021
