@@ -172,55 +172,55 @@ portfolio-categories:
   [Websites, Logo, Graphic Design, Development, Video, Photography]
 portfolio:
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
+  - title: R<span class="thin">osen</span>C<span class="thin">raft</span>
     categories: [Websites, Graphic Design]
     image: img-01.jpg
     url: "#"
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
+  - title: R<span class="thin">osen</span>C<span class="thin">raft</span>
     categories: [Graphic Design, Logo, Websites]
     image: img-02.jpg
     url: "#"
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
+  - title: R<span class="thin">osen</span>C<span class="thin">raft</span>
     categories: [Graphic Design, Logo, Photography]
     image: img-03.jpg
     url: "#"
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
+  - title: R<span class="thin">osen</span>C<span class="thin">raft</span>
     categories: [Websites, Video, Photography]
     image: img-04.jpg
     url: "#"
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
+  - title: R<span class="thin">osen</span>C<span class="thin">raft</span>
     categories: [Development, Logo]
     image: img-05.jpg
     url: "#"
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
+  - title: R<span class="thin">osen</span>C<span class="thin">raft</span>
     categories: [Development, Video]
     image: img-06.jpg
     url: "#"
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
+  - title: R<span class="thin">osen</span>C<span class="thin">raft</span>
     categories: [Websites, Graphic Design]
     image: img-07.jpg
     url: "#"
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
+  - title: R<span class="thin">osen</span>C<span class="thin">raft</span>
     categories: [Websites, Video]
     image: img-08.jpg
     url: "#"
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
+  - title: R<span class="thin">osen</span>C<span class="thin">raft</span>
     categories: [Photography, Logo]
     image: img-09.jpg
     url: "#"
